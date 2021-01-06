@@ -1,0 +1,118 @@
+.clr{
+    color:red;
+    font-size: 60px;
+}
+ul{
+   
+    margin-left: 60%;
+     
+}
+.m{padding:5px 10px;
+ background-color: black;
+ color: rgb(247, 247, 247);
+}
+li{
+    float:left;
+}
+body{
+    font-family: 'Staatliches', cursive;
+}
+.fst-portion{
+    margin-left: 5%;
+    padding-left: 5%;
+    width: 40%;
+    float: left;
+}
+.snd-portion{
+    margin-left:5%;
+    padding-left: 5%;
+    width: 40%;
+    float: left;
+}
+#fimg{
+    width: 30%;
+}
+#simg{
+    width: 60% ;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: red;
+    font-weight: 700;
+    color: white;
+}
+.trd-prtn{
+
+     margin: 2px 6px;
+    width: 27%;
+    float: left;
+    margin-left: 2%;
+    padding: 10px 20px;
+  
+    box-shadow: 10px 10px 40px rgb(220, 220, 220);
+    border-radius: 5px;
+}
+
+
+.gap{
+    padding-bottom: 30px;
+}
+#biggap{
+    padding-bottom: 400px;
+}
+#text{
+
+    text-align: center;
+
+}
+.box-section{
+    width: 100% ;
+
+}
+#uppergap{
+    padding-top: 550px;
+}
+.bi{ 
+    background-image: url("shapes/Group_33094_1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 200px;
+    margin-left: 30%;
+    margin-top: 400px;
+}
+.add-inq{
+    margin-left: 10%;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 7px;
+}
+.edit{
+    
+    
+    margin-left: 70%;
+    margin-right: 7%;
+    margin-bottom: 40%;
+    margin-top: -12%;
+}
+#edit-txt{
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    background-color:red;
+    font-weight: 700;
+}
+.l-text{
+    text-align: center;
+}
+.logo{
+    margin-left: 33%;
+}
+
+    
+    
+    
