@@ -19,9 +19,13 @@ body{
 }
 .fst-portion{
     margin-left: 5%;
-    padding-left: 5%;
+    padding-left: 2;
     width: 40%;
     float: left;
+  
+}
+.fst-portion img{
+    width: 100%;
 }
 .snd-portion{
     margin-left:5%;
@@ -29,15 +33,10 @@ body{
     width: 40%;
     float: left;
 }
-img{
-    width:40%;
+.snd-portion img{
+    width: 70%;
 }
-#fimg{
-    width: 30%;
-}
-#simg{
-    width: 60% ;
-}
+
 .button{
     text-decoration: none;
     padding: 10px 20px;
@@ -63,11 +62,14 @@ img{
     padding-bottom: 30px;
 }
 #biggap{
-    padding-bottom: 400px;
+    padding-bottom: 100px;
+    padding-top: 500px;
 }
 #text{
 
-    text-align: center;
+    text-align: left;
+
+    margin-left: 40%;
 
 }
 .box-section{
