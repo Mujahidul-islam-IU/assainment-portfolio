@@ -29,6 +29,9 @@ body{
     width: 40%;
     float: left;
 }
+img{
+    width:40%;
+}
 #fimg{
     width: 30%;
 }
