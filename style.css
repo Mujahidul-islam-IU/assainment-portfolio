@@ -117,6 +117,11 @@ body{
 .logo{
     margin-left: 33%;
 }
+.bigbox{
+    height: 20%;
+    box-shadow: 10px 10px  40px gray;
+    color: gray;
+}
 
     
     
